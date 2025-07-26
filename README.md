@@ -19,7 +19,7 @@ MEDISCAN-AI is a smart, Flask-based console application that automates the extra
 
 ## 🛠️ Tech Stack
 
-| Layer         | Technology                  |
+| Layer         | Technology                   |
 |---------------|------------------------------|
 | Language      | Python 3.10                  |
 | Framework     | Flask                        |
@@ -35,6 +35,7 @@ MEDISCAN-AI is a smart, Flask-based console application that automates the extra
 ## 📁 Folder Structure
 
 MEDISCAN-AI/
+
 ├── app.py # Main controller
 
 ├── database/ # SQLite setup
