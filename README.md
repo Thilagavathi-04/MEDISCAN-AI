@@ -50,6 +50,16 @@ MEDISCAN-AI/
 
 ├── mcq.json # Intern quiz data
 
+
+## 🧠 Future Enhancements
+Web-based UI for broader accessibility
+
+Role-based login authentication
+
+Deployment on Render / Replit / Railway
+
+Analytics dashboard for health trends
+
 ├── .env # API keys and configs (not committed)
 
 ├── .gitignore # Ignored files and folders
