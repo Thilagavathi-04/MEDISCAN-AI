@@ -53,6 +53,9 @@ MEDISCAN-AI/
 
 ## 🧠 Future Enhancements
 Web-based UI for broader accessibility
+
 Role-based login authentication
+
 Deployment on Render / Replit / Railway
+
 Analytics dashboard for health trends
